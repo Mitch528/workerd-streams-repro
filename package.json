@@ -1,0 +1,14 @@
+{
+  "name": "workerd-streams-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "workerd serve config.capnp --experimental"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "workerd": "^1.20220926.3"
+  }
+}
